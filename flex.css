@@ -1,0 +1,142 @@
+.body{
+    margin: 0;
+}
+
+.caixa{
+    border-radius: 5px;
+}
+
+.pai1{
+    height: 75px;
+    width: 70%;
+    margin: auto;
+    background-color: #d3d3d3;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+}
+
+.pai2{
+    height: 75px;
+    width: 70%;
+    margin: auto;
+    background-color: #d3d3d3;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.pai3{
+    height: 75px;
+    width: 70%;
+    margin: auto;
+    background-color: #d3d3d3;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.pai4{
+    height: 75px;
+    width: 70%;
+    margin: auto;
+    background-color: #d3d3d3;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pai5 {
+    height: 75px;
+    width: 70%;
+    margin: auto;
+    background-color: #d3d3d3;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.pai6 {
+    height: 75px;
+    width: 70%;
+    margin: auto;
+    background-color: #d3d3d3;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.pai7{
+    height: 300px;
+    width: 70%;
+    margin: auto;
+    background-color: #d3d3d3;
+
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.pai8{
+    height: 75px;
+    width: 70%;
+    margin: auto;
+    background-color: #d3d3d3;
+
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+.filho {
+    width: 75px;
+    height: 75px;
+}
+
+.bloco1 {
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.bloco2 {
+    background-color: darkblue;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.bloco3 {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.bloco4 {
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
